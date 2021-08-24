@@ -208,6 +208,7 @@ Una **entidad** es algo similar a un objeto (programación orientada a objetos) 
 Los atributos se representan con óvalos, los que tienen multiples valores llevan dobles óvalos, también existen atributos compuestos, los atributos especiales son óvalos con linea punteada.
 
 Los **atributos compuestos** son aquellos que tienen atributos ellos mismos.
+Los **atributos multivariados** son aquellos que pueden ser varios ejemplo : ruedas y estos van en doble linea
 
 Los **atributos llave** son aquellos que identifican a la entidad y no pueden ser repetidos, se diagraman con underline. Existen:
 
